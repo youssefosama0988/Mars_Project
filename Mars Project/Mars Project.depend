@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1702049799 source:c:\users\admin\desktop\first year electrical\embedded systems\code blocks\string.h\mars project\main.cpp
+	<iostream>
+	<math.h>
+
